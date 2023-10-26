@@ -26,7 +26,8 @@ print(r)
 
 
 ### OUTPUT:
-![Alt text](image.png)
+![image](https://github.com/SridharShyam/DISTANCE-BETWEEN-TWO-POINTS/assets/144871368/58d1d7f3-37c6-4bdb-9c25-d3c53bec2386)
+
 
 
 ### RESULT:
