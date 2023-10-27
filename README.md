@@ -31,3 +31,4 @@ print(r)
 
 
 ### RESULT:
+Thus finding the distance between two points are successfully executed
